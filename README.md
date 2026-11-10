@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Muhammad Abbas
 
-<!--
-**AbbasNaqvi10/AbbasNaqvi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer** | Karachi, Pakistan | Open to remote roles worldwide
 
-Here are some ideas to get you started:
+I build backend systems, microservices and multi-tenant SaaS platforms with Node.js, NestJS, TypeScript and PostgreSQL. I lead a team of 5 engineers at WeUno Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've done
+
+- Led a 5-engineer team on Buzzmint, running in production for 10 organizations
+- Designed a 9-service microservices platform (Comanity) and cut API response times from 5-7 seconds to about 200-300 ms
+- Built multi-tenant SaaS with secure tenant isolation and reusable services
+- Earlier: blockchain integrations (Ethereum, Polygon, TRON) at Dechains
+
+## Tech stack
+
+- Languages: TypeScript, JavaScript, Java, SQL
+- Backend: Node.js, NestJS, Spring Boot, microservices, REST, Swagger/OpenAPI
+- Data: PostgreSQL, MongoDB
+- Cloud and DevOps: AWS (EC2, S3, ECS), GitHub Actions
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/muhammad-abbas-00832420a/
