@@ -16,40 +16,41 @@ Senior Software Engineer in Karachi, Pakistan, with 5+ years building full-stack
 
 ## What I have shipped
 
-- **Led a team of 4** on a multi-tenant SaaS platform running in production for 10 organizations
-- - **Designed a 9-service microservices platform** and cut API response times from 5-7 seconds to about 200-300 ms
-  - - **Built a full Stripe subscription module**, including webhooks, for a production platform
-    - - **Integrated OpenAI** for document RAG and Whisper speech-to-text
-      - - **Multi-chain Web3 data APIs** across Ethereum, Polygon and TRON
-       
-        - ## Tech stack
-       
-        - <div align="center">
+<ul>
+  <li><b>Led a team of 4</b>b> on a multi-tenant SaaS platform running in production for 10 organizations</li>li>
+<li><b>Designed a 9-service microservices platform</b>b> and cut API response times from 5-7 seconds to about 200-300 ms</li>li>
+<li><b>Built a full Stripe subscription module</b>b>, including webhooks, for a production platform</li>li>
+<li><b>Integrated OpenAI</b>b> for document RAG and Whisper speech-to-text</li>li>
+<li><b>Multi-chain Web3 data APIs</b>b> across Ethereum, Polygon and TRON</li>li>
+</ul>ul>
 
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,java,spring,postgres,mongodb,redis,docker,aws,gcp,githubactions,git,graphql&perline=9" alt="Tech stack" />
+## Tech stack
 
-        </div>
+<div align="center">
 
-        ## GitHub stats
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,java,spring,postgres,mongodb,redis,docker,aws,gcp,githubactions,git,graphql&perline=9" alt="Tech stack" />
 
-        <div align="center">
+  </div>
 
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbbasNaqvi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasNaqvi10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  ## GitHub activity
 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasNaqvi10&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <div align="center">
 
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbbasNaqvi10&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasNaqvi10&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
-        </div>
+    <img src="https://ghchart.rshah.org/6C63FF/AbbasNaqvi10" alt="Contribution chart" width="720" />
 
-        ## Let's work together
+    </div>
 
-        I take on freelance projects: full-stack product builds, backend and microservices work, Stripe billing, and AI features. See what I do and send a brief on my [portfolio](https://muhammad-abbas-portfolio.netlify.app/), or email me at syedabbasnaqvi10@gmail.com.
+    ## Let's work together
 
-        <div align="center">
+    I take on freelance projects: full-stack product builds, backend and microservices work, Stripe billing, and AI features. See what I do and send a brief on my [portfolio](https://muhammad-abbas-portfolio.netlify.app/), or email me at syedabbasnaqvi10@gmail.com.
 
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=100&section=footer" alt="" />
+    <div align="center">
 
-        </div>
-        
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=100&section=footer" alt="" />
+
+    </div>
+    
+</li></li>
+</ul>
