@@ -1,23 +1,55 @@
-# Hi, I'm Muhammad Abbas
+<div align="center">
 
-**Senior Software Engineer** | Karachi, Pakistan | Open to remote roles worldwide
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=190&section=header&text=Muhammad%20Abbas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer&descAlignY=60&descSize=20" alt="Muhammad Abbas" />
 
-I build backend systems, microservices and multi-tenant SaaS platforms with Node.js, NestJS, TypeScript and PostgreSQL. I lead a team of 4 engineers at WeUno Technologies.
+<a href="https://muhammad-abbas-portfolio.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=640&lines=React+interfaces+on+top+of+fast+backends;Microservices+%7C+Multi-tenant+SaaS+%7C+AI+integrations;Stripe+subscriptions%2C+OpenAI+RAG+and+Whisper;Open+to+remote+roles+and+freelance+projects" alt="Typing intro" /></a>
 
-## What I've done
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammad--abbas--portfolio.netlify.app-6C63FF?style=for-the-badge&logo=netlify&logoColor=white)](https://muhammad-abbas-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abbas-00832420a/)
+[![Email](https://img.shields.io/badge/Email-Hire%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedabbasnaqvi10@gmail.com)
 
-- Led a team of 4 engineers on Buzzmint, running in production for 10 organizations
-- Designed a 9-service microservices platform (Comanity) and cut API response times from 5-7 seconds to about 200-300 ms
-- Built multi-tenant SaaS with secure tenant isolation and reusable services
-- Earlier: blockchain integrations (Ethereum, Polygon, TRON) at Dechains
+</div>
 
-## Tech stack
+## About
 
-- Languages: TypeScript, JavaScript, Java, SQL
-- Backend: Node.js, NestJS, Spring Boot, microservices, REST, Swagger/OpenAPI
-- Data: PostgreSQL, MongoDB
-- Cloud and DevOps: AWS (EC2, S3, ECS), GitHub Actions
+Senior Software Engineer in Karachi, Pakistan, with 5+ years building full-stack products: React interfaces on top of Node.js and NestJS backends that stay fast at scale. I lead a team of 4 engineers at WeUno Technologies and I am open to **remote roles** and **freelance projects**.
 
-## Contact
+## What I have shipped
 
-- LinkedIn: https://www.linkedin.com/in/muhammad-abbas-00832420a/
+- **Led a team of 4** on a multi-tenant SaaS platform running in production for 10 organizations
+- - **Designed a 9-service microservices platform** and cut API response times from 5-7 seconds to about 200-300 ms
+  - - **Built a full Stripe subscription module**, including webhooks, for a production platform
+    - - **Integrated OpenAI** for document RAG and Whisper speech-to-text
+      - - **Multi-chain Web3 data APIs** across Ethereum, Polygon and TRON
+       
+        - ## Tech stack
+       
+        - <div align="center">
+
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,java,spring,postgres,mongodb,redis,docker,aws,gcp,githubactions,git,graphql&perline=9" alt="Tech stack" />
+
+        </div>
+
+        ## GitHub stats
+
+        <div align="center">
+
+        <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbbasNaqvi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasNaqvi10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasNaqvi10&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbbasNaqvi10&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+
+        </div>
+
+        ## Let's work together
+
+        I take on freelance projects: full-stack product builds, backend and microservices work, Stripe billing, and AI features. See what I do and send a brief on my [portfolio](https://muhammad-abbas-portfolio.netlify.app/), or email me at syedabbasnaqvi10@gmail.com.
+
+        <div align="center">
+
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=100&section=footer" alt="" />
+
+        </div>
+        
