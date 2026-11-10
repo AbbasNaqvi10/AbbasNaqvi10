@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** | Karachi, Pakistan | Open to remote roles worldwide
 
-I build backend systems, microservices and multi-tenant SaaS platforms with Node.js, NestJS, TypeScript and PostgreSQL. I led a team of 4 engineers at WeUno Technologies.
+I build backend systems, microservices and multi-tenant SaaS platforms with Node.js, NestJS, TypeScript and PostgreSQL. I lead a team of 4 engineers at WeUno Technologies.
 
 ## What I've done
 
